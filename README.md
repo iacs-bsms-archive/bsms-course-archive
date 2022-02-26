@@ -1,0 +1,2 @@
+# bsms-course-archive
+This repository is being made to make available notes, previous year papers and descriptions of courses offered to BS-MS students at IACS, Kolkata. This repository is a student run initiative which will contain material for all departments of IACS where BS-MS students are studying (SBS, SCS, SMS, SAIS, SMCS and SPS). If there are any grievances or queries, please email them to iacsbsmsarchive@gmail.com
